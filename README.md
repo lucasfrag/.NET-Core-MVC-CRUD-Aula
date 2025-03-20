@@ -1,4 +1,4 @@
-# .NET Core MVC - CRUD - Exemplo
+# .NET Core MVC - CRUD - Aula
 Código desenvolvido no vídeo tutorial postado no YouTube.
 
 • Link do vídeo: https://youtu.be/kV5vUNWVgVo
